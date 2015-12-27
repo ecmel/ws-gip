@@ -1,5 +1,5 @@
 # ws-gip
-EPIAS Intra Day Market Web Serice Client
+EPIAS Intra Day Market Web Service Client
 
 ## Example Usage
 
