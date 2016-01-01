@@ -1,5 +1,5 @@
 # ws-gip
-EPIAS Intra Day Market Axis2 Web Service Client
+EPIAS (PMUM) Intra Day Market Axis2 Web Service Client
 
 ## Example Usage
 
